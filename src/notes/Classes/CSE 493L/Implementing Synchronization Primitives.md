@@ -1,4 +1,0 @@
-- Thread join: Force current thread to wait until the joined thread is done
-- Semaphore: A generalized mutex that N threads can own at once
-- RWLock: allows multiple readers xor only one writer
-- Condition Variable: Allows blocking until a user-defined condition is met
